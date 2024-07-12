@@ -1,0 +1,15 @@
+.section{
+    background-color: rgb(249, 248, 247);
+    margin: 50px 100px;
+}
+h1{
+    background-color: darkcyan;
+    margin-top: 50px;
+}
+input{
+    width: 100%;
+    margin: 10px;
+}
+h6{
+    margin: 10px;
+}
